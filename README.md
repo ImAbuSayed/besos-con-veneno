@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-con-veneno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos con veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-con-veneno/) |
+| **Get License** | [Get a Licensing Quote for Besos con veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-con-veneno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `165fbdec1346ceaede08fc083b13ca178bae5375bacdfd7c75a9d1ce1129feb4` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `34c82808d3c84374d62743c43d95d9a20ab2eb3002a80118e329f7f656750550` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

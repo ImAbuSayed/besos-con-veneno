@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Besos co
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:29:13.526423 | `v1` | `165fbdec1346ceaede08fc083b13ca178bae5375bacdfd7c75a9d1ce1129feb4` | `18cf21d65943b3f5c4d9d052afbc8a193b0444f5fb06b58b1f543d89bb0c1440` | `2026-06-20_besos-con-veneno-v1.txt` |
+| 2026-06-20T02:03:19.658229 | `v2` | `34c82808d3c84374d62743c43d95d9a20ab2eb3002a80118e329f7f656750550` | `f6902100b5c70305b5ca286226b3866451da36d7e5d9b00d2fbaa41f5a718173` | `2026-06-20_besos-con-veneno-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
