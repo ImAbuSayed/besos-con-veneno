@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Besos con veneno |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-con-veneno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Besos con veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-con-veneno/) |
+| **Get License** | [Get License For Besos con veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-con-veneno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Me tienes loco con esos besos con veneno
-> Bebé, tu cuerpo es el fuego que yo anhelo
-> Rozando pieles bajo la luna de Madrid
-> Sabes muy bien que la noche es para ti
+> Tus besos con veneno me tienen envenena'o
+> Baby, no me sueltes que estoy acelera'o
+> La noche es larga y el humo nos ha rodea'o
+> Dame veneno, dame amor descontrola'o
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
