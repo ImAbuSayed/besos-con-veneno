@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos con veneno
+
+This log tracks the cryptographic history and versioning for the song **Besos con veneno** (besos-con-veneno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:29:13.526423 | `v1` | `165fbdec1346ceaede08fc083b13ca178bae5375bacdfd7c75a9d1ce1129feb4` | `18cf21d65943b3f5c4d9d052afbc8a193b0444f5fb06b58b1f543d89bb0c1440` | `2026-06-20_besos-con-veneno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
