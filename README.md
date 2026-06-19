@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-con-veneno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos con veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-con-veneno/) |
+| **Get License** | [Secure Licensing Rights for Besos con veneno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-con-veneno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco con esos besos con veneno
+> Bebé, tu cuerpo es el fuego que yo anhelo
+> Rozando pieles bajo la luna de Madrid
+> Sabes muy bien que la noche es para ti
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
